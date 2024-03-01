@@ -1,0 +1,14 @@
+/* Defining the flexboxes */
+body,
+.header,
+ul,
+.welcome,
+.info,
+.action-text
+.footer {
+    display: flex;
+}
+
+body {
+    flex-direction: column;
+}
