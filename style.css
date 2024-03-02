@@ -1,6 +1,6 @@
 /* Defining the flexboxes */
-body,
-.header,
+/* body */
+header,
 ul,
 .welcome,
 .info,
@@ -9,6 +9,22 @@ ul,
     display: flex;
 }
 
+
 body {
-    flex-direction: column;
+    /*flex-direction: column;*/
+} 
+
+header,
+.welcome,
+footer {
+    background-color: #1f2937;
+    color: #ffffff;
+}
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.blue-box {
+    background-color: #3882f6;
 }
