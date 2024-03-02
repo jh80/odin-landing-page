@@ -12,19 +12,50 @@ ul,
 
 body {
     /*flex-direction: column;*/
+    font-family: roboto, Verdana, Geneva, Tahoma, sans-serif;
 } 
 
 header,
 .welcome,
 footer {
     background-color: #1f2937;
-    color: #ffffff;
+}
+
+.welcome h1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+header li,
+.welcome p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+header .logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.info h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
 }
 
 .quote {
     background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
 }
 
-.blue-box {
+.blue-box,
+button {
     background-color: #3882f6;
+}
+
+footer {
+    color: #e5e7eb;
 }
