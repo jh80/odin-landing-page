@@ -3,7 +3,7 @@
 header,
 ul,
 .welcome,
-.info,
+.image-container,
 .action-text
 .footer {
     display: flex;
@@ -74,8 +74,14 @@ header {
     padding: 15px 50px;
 } 
 
-.pretend-image {
+.pretend-image-large {
     width: 450px;
+    height: 200px;
+    background-color: gray;
+}
+
+.pretend-image {
+    width: 200px;
     height: 200px;
     background-color: gray;
 }
