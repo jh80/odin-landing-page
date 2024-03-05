@@ -137,6 +137,7 @@ nav a {
     align-items: center;
     gap: 100px;
     border-radius: .5rem;
+    color: #e5e7eb;
 }
 
 button {
