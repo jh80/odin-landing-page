@@ -42,6 +42,7 @@ header .logo {
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
+    text-align: center;
 }
 
 .quote {
@@ -94,4 +95,13 @@ header {
 
 .welcome-left {
     max-width: 500px;
+}
+
+.image-container {
+    justify-content: center;
+    gap: 40px;
+}
+
+.image-unit p {
+    max-width: 200px;
 }
