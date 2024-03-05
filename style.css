@@ -91,6 +91,10 @@ nav a {
     width: 450px;
     height: 200px;
     background-color: gray;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .pretend-image {
