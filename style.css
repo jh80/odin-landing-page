@@ -29,6 +29,7 @@ footer {
 }
 
 header li,
+button,
 .welcome p {
     font-size: 18px;
     color: #e5e7eb;
@@ -127,3 +128,8 @@ header {
     gap: 100px;
 }
 
+button {
+    width: 100px;
+    height: 30px;
+    font-weight: 700;
+}
