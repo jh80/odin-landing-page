@@ -110,6 +110,7 @@ header {
 
 .image-unit p {
     max-width: 200px;
+    text-align: center;
 }
 
 .quote .quote-credit {
