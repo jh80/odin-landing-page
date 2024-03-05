@@ -60,6 +60,32 @@ footer {
     color: #e5e7eb;
 }
 
-li {
+ul {
     list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    margin: 10px;
+}
+header {
+    justify-content: space-between;
+    padding: 15px 50px;
+} 
+
+.pretend-image {
+    width: 450px;
+    height: 200px;
+    background-color: gray;
+}
+
+.welcome {
+    padding: 50px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.welcome-left {
+    max-width: 500px;
 }
