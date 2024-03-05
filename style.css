@@ -14,6 +14,7 @@ body {
     flex-direction: column;
     font-family: roboto, Verdana, Geneva, Tahoma, sans-serif;
     min-height: 100vh;
+    margin: 0;
 } 
 
 header,
@@ -155,11 +156,10 @@ button {
 /* 
 TO DO
 - add images
-- take shadow off of buttons
 - Get rid of white boarder
 - Think about flex box and the best practices
   for this site and if I should apply any more 
   flex box.
-- Add link to button
+- Figure out how button works
 
  */
