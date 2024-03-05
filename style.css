@@ -125,6 +125,7 @@ header {
     padding: 25px 50px;
     margin: 50px;
     justify-content: space-around;
+    align-items: center;
     gap: 100px;
 }
 
