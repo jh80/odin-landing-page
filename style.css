@@ -127,6 +127,7 @@ header {
     justify-content: space-around;
     align-items: center;
     gap: 100px;
+    border-radius: .5rem;
 }
 
 button {
