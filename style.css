@@ -28,7 +28,7 @@ footer {
     font-weight: bolder;
 }
 
-header li,
+header a,
 button,
 .welcome p {
     font-size: 18px;
@@ -80,6 +80,10 @@ header {
     justify-content: space-between;
     padding: 15px 50px;
 } 
+
+nav a {
+    text-decoration: none;
+}
 
 .pretend-image-large {
     width: 450px;
