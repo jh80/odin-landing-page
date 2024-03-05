@@ -60,6 +60,7 @@ button {
 
 footer {
     color: #e5e7eb;
+    flex: 1 1 auto;
 }
 
 ul {
@@ -121,4 +122,8 @@ header {
     margin: 50px;
     justify-content: space-around;
     gap: 100px;
+}
+
+footer small{
+    padding: 40px;
 }
