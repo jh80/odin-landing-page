@@ -59,3 +59,7 @@ button {
 footer {
     color: #e5e7eb;
 }
+
+li {
+    list-style: none;
+}
