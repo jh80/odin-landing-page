@@ -1,10 +1,10 @@
-/* Defining the flexboxes */
-/* body */
+body 
 header,
 ul,
 .welcome,
 .image-container,
-.action-text
+.action-call,
+.action-text,
 .footer {
     display: flex;
 }
