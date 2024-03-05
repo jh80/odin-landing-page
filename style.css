@@ -37,6 +37,7 @@ button,
 
 header .logo {
     font-size: 24px;
+    font-weight: 700;
     color: #f9faf8;
 }
 
@@ -120,6 +121,8 @@ nav a {
 
 .quote .quote-credit {
     text-align: right;
+    font-size: 24px;
+    font-weight: 700;
 }
 
 .action-call {
@@ -142,3 +145,19 @@ button {
     font-weight: 700;
     border-radius: .5rem;
 }
+
+/* 
+TO DO
+- add images
+- take shadow off of buttons
+- Get rid of white boarder
+- Think about flex box and the best practices
+  for this site and if I should apply any more 
+  flex box.
+- Add link to button
+
+- bold fonts
+- make quote credit a little smaller
+- make call to action font white
+- put a white border around signup button
+ */
