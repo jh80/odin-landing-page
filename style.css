@@ -110,3 +110,15 @@ header {
 .quote .quote-credit {
     text-align: right;
 }
+
+.action-call {
+    justify-content: center;
+}
+
+.blue-box {
+    flex: 1 1 auto;
+    padding: 25px 50px;
+    margin: 50px;
+    justify-content: space-around;
+    gap: 100px;
+}
