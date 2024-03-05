@@ -145,6 +145,7 @@ button {
     height: 40px;
     font-weight: 700;
     border-radius: .5rem;
+    border: none;
 }
 
 .blue-box button {
@@ -161,5 +162,4 @@ TO DO
   flex box.
 - Add link to button
 
-- put a white border around signup button
  */
